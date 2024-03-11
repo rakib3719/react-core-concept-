@@ -1,0 +1,16 @@
+.country{
+
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+
+}
+
+li{
+
+    list-style: none;
+}
+
+.img2{
+
+    width: 30px;
+}

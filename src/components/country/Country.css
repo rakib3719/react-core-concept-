@@ -1,0 +1,27 @@
+.country-child {
+
+    
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    padding: 30px;
+
+    margin: 30px;
+    color: black;
+    border-radius: 30px;
+    
+}
+
+.country-child2{
+
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    padding: 30px;
+background-color:#303952;
+    margin: 30px;
+    color: black;
+    border-radius: 30px;
+    color: whitesmoke;
+
+}
+.img{
+
+    width: 100px;
+}
